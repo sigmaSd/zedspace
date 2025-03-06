@@ -1,0 +1,10 @@
+name = "ZedSpace"
+version = "0.0.2"
+authors = ["Bruno Garcia","Twitter: @brunowgarcia","Email: eu@brunowillian.com"]
+description = "Theme inspired by Rocketseat's Omni, offers an elegant and focused interface for the Zed editor."
+repository = "https://github.com/Brunowilliang/zedspace"
+id = "zed-space"
+schema_version = 1
+
+[themes]
+ZedSpace = "themes/zedspace.json"
